@@ -1,5 +1,5 @@
 alabaster==0.7.12
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
+
 astroid @ file:///C:/ci/astroid_1613500971479/work
 async-generator==1.10
 attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
